@@ -1,2 +1,4 @@
-# Qoute-generator
-A lightweight Quote Generator built with vanilla HTML, CSS, and JavaScript. Shows a random quote with author, lets you get a new quote, copy to clipboard, and share on Twitter—no frameworks required.
+# Quote Generator (HTML • CSS • JavaScript)
+
+A minimal, fast, and mobile-friendly Quote Generator built with vanilla web tech.  
+Get a random quote, reveal the author, and share or copy it in one click.
